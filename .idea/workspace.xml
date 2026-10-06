@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="059c6c09-91bc-44b2-967f-95c6ba70f5ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula01/EXERCICIOS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/Ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/Ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/Ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/Ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/Ex5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,29 +39,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Ex1.executor": "Run",
-    "Python.Ex10.executor": "Run",
-    "Python.Ex11.executor": "Run",
-    "Python.Ex12.executor": "Run",
-    "Python.Ex13.executor": "Run",
-    "Python.Ex14.executor": "Run",
-    "Python.Ex2.executor": "Run",
-    "Python.Ex3.executor": "Run",
-    "Python.Ex4.executor": "Run",
-    "Python.Ex5.executor": "Run",
-    "Python.Ex7.executor": "Run",
-    "Python.Ex8.executor": "Run",
-    "Python.Ex9.executor": "Run",
-    "Python.ex6.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/GuiPaiva/OneDrive/Área de Trabalho/ARQUIVOS/FATEC/Estrutura de Dados/Aulas-EstruturaDeDados/.venv",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GuiPaiva/OneDrive/Área de Trabalho/ARQUIVOS/FATEC/Estrutura de Dados/Aulas-EstruturaDeDados/.venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\GuiPaiva\OneDrive\Área de Trabalho\ARQUIVOS\FATEC\Estrutura de Dados\Aulas-EstruturaDeDados\Aula01" />
