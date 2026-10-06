@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="059c6c09-91bc-44b2-967f-95c6ba70f5ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula02/Ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula02/Ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula02/Ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula02/Ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula02/Ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula02/EXERCICIOS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +47,7 @@
     &quot;Python.Ex3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex4.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex7.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex8.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ex9.executor&quot;: &quot;Run&quot;,
